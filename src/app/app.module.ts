@@ -19,6 +19,8 @@ import { MatButtonModule } from '@angular/material/button';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import {MatChipsModule} from '@angular/material/chips';
 import { ChatComponent } from './chat/chat.component';
+import { HomeComponent } from './home/home.component';
+import {MatCardModule} from '@angular/material/card';
 
 @NgModule({
   declarations: [
@@ -26,7 +28,8 @@ import { ChatComponent } from './chat/chat.component';
     SidebarComponent,
     ChatWindowComponent,
     ChatInputComponent,
-    ChatComponent
+    ChatComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
@@ -41,7 +44,8 @@ import { ChatComponent } from './chat/chat.component';
     MatIconModule,
     MatButtonModule,
     FlexLayoutModule,
-    MatChipsModule
+    MatChipsModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
