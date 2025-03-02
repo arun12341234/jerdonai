@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "dist/atw_ai",
     "ignore": [
       "firebase.json",
       "**/.*",
