@@ -1,0 +1,40 @@
+<div fxLayout="column" fxLayoutAlign="space-between center" >
+  <div fxLayout="column" fxLayoutAlign="center center" class="chat-input" style="background-color: #3a3a46;">
+    <mat-form-field appearance="outline" class="input-box custom-outline" style="width: 100%;">
+      <textarea matInput [(ngModel)]="userInput" placeholder="Type a message..."
+                #textArea cdkTextareaAutosize cdkAutosizeMinRows="1" cdkAutosizeMaxRows="10"
+                class="full-width-textarea no-scrollbar"></textarea>
+    </mat-form-field>
+    <div fxLayout="row" fxLayoutAlign="space-between center" style="width: 100%;">
+      <div fxLayout="row" fxLayoutGap="10px">
+        <!-- <button mat-icon-button aria-label="Example icon button with a menu icon" style="color: white;padding: 0px;height: 40px;">
+          <mat-icon>attach_file</mat-icon>
+        </button> -->
+        <mat-chip-set aria-label="Dog selection">
+          <mat-chip style="background-color: rgba(145, 141, 141, 0.1);color: white;">
+            <img
+              matChipAvatar
+              src="../../../assets/jerdon.avif"
+              alt="Photo of a Shiba Inu"
+            />
+            <span style="color: white;">
+              Jerdon’s Courser (JC1)
+            </span>
+          </mat-chip>
+        </mat-chip-set>
+      </div>
+      
+      <!-- <button mat-icon-button color="primary" (click)="sendMessage()" [disabled]="!userInput?.trim()">
+        <mat-icon>send</mat-icon>
+      </button> -->
+      <button mat-mini-fab aria-label="Example icon button with a menu icon" style="background-color: rgb(167, 162, 162);color: black;" (click)="sendMessage()">
+        <mat-icon>arrow_upward</mat-icon>
+      </button>
+    </div>
+
+  </div>
+  <p class="footer">
+    Jerdon can make mistakes. Check important info.
+  </p>
+
+</div>

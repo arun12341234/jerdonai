@@ -1,0 +1,100 @@
+.chat-window {
+  flex-grow: 1;
+  padding: 10px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-light);
+  transition: background 0.3s;
+  height: 100vh;
+  // calc(100vh - 100px);
+  background-color: #474756;
+  scrollbar-width: none;
+  /* Firefox */
+  -ms-overflow-style: none;
+  /* IE & Edge */
+
+}
+
+body.dark-mode .chat-window {
+  background: var(--bg-dark);
+}
+
+.message {
+  max-width: 70%;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  opacity: 0;
+  animation: fadeIn 0.3s forwards;
+  background-color: red;
+}
+
+.chats {
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+  width: 50%;
+  position: absolute;
+  height: 75vh;
+  animation: fadeIn 0.3s forwards;
+  overflow: scroll;
+  scrollbar-width: none;
+  /* Firefox */
+  -ms-overflow-style: none;
+  /* IE & Edge */
+  margin-top: 5vh;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.user {
+  align-self: flex-end;
+  background: rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+.bot {
+  align-self: flex-start;
+  background: transparent;
+  // #e0e0e0;
+  color: rgb(201, 197, 197);
+}
+
+body.dark-mode .bot {
+  background: #444;
+  color: white;
+}
+
+.loading {
+  align-self: flex-start;
+  font-size: 12px;
+  color: gray;
+}
+
+.feedback-buttons {
+  display: flex;
+  gap: 5px;
+  margin-top: 5px;
+}
+
+.feedback-buttons button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.feedback-buttons button.active {
+  color: #007bff;
+}

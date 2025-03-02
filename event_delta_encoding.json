@@ -1,0 +1,1187 @@
+event: delta_encoding
+data: "v1"
+
+event: delta
+data: {
+    "p": "",
+    "o": "add",
+    "v": {
+        "message": {
+            "id": "c2d9b2b3-37bb-41be-892f-08945a6aea89",
+            "author": {
+                "role": "system",
+                "name": null,
+                "metadata": {}
+            },
+            "create_time": null,
+            "update_time": null,
+            "content": {
+                "content_type": "text",
+                "parts": [
+                    ""
+                ]
+            },
+            "status": "finished_successfully",
+            "end_turn": true,
+            "weight": 0.0,
+            "metadata": {
+                "is_visually_hidden_from_conversation": true
+            },
+            "recipient": "all",
+            "channel": null
+        },
+        "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10",
+        "error": null
+    },
+    "c": 0
+}
+
+event: delta
+data: {
+    "v": {
+        "message": {
+            "id": "e973f9c3-4d20-4409-a04c-5af24f47f3a6",
+            "author": {
+                "role": "user",
+                "name": null,
+                "metadata": {}
+            },
+            "create_time": 1740650950.319,
+            "update_time": null,
+            "content": {
+                "content_type": "text",
+                "parts": [
+                    "hii"
+                ]
+            },
+            "status": "finished_successfully",
+            "end_turn": null,
+            "weight": 1.0,
+            "metadata": {
+                "serialization_metadata": {
+                    "custom_symbol_offsets": []
+                },
+                "request_id": "918760ba991a59c0-ORF",
+                "message_source": null,
+                "timestamp_": "absolute",
+                "message_type": null
+            },
+            "recipient": "all",
+            "channel": null
+        },
+        "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10",
+        "error": null
+    },
+    "c": 1
+} 
+
+data: {
+    "type": "url_moderation",
+    "url_moderation_result": {
+        "full_url": "aryan-labs.com",
+        "is_safe": true
+    },
+    "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10",
+    "message_id": "f565c3ef-58a9-413e-83fc-795d10ffdb52"
+}
+
+event: delta
+data: {
+    "v": {
+        "message": {
+            "id": "f565c3ef-58a9-413e-83fc-795d10ffdb52",
+            "author": {
+                "role": "assistant",
+                "name": null,
+                "metadata": {}
+            },
+            "create_time": null,
+            "update_time": null,
+            "content": {
+                "content_type": "model_editable_context",
+                "model_set_context": "",
+                "repository": null,
+                "repo_summary": null,
+                "structured_context": null
+            },
+            "status": "finished_successfully",
+            "end_turn": null,
+            "weight": 1.0,
+            "metadata": {
+                "message_type": "next",
+                "model_slug": "gpt-4o",
+                "default_model_slug": "gpt-4o",
+                "parent_id": "e973f9c3-4d20-4409-a04c-5af24f47f3a6",
+                "model_switcher_deny": []
+            },
+            "recipient": "all",
+            "channel": null
+        },
+        "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10",
+        "error": null
+    },
+    "c": 2
+}      
+
+event: delta
+data: {
+    "v": {
+        "message": {
+            "id": "d804862d-c166-4531-9a2e-d7ef509c943f",
+            "author": {
+                "role": "assistant",
+                "name": null,
+                "metadata": {}
+            },
+            "create_time": 1740650951.533706,
+            "update_time": null,
+            "content": {
+                "content_type": "text",
+                "parts": [
+                    ""
+                ]
+            },
+            "status": "in_progress",
+            "end_turn": null,
+            "weight": 1.0,
+            "metadata": {
+                "citations": [],
+                "content_references": [],
+                "message_type": "next",
+                "model_slug": "gpt-4o",
+                "default_model_slug": "gpt-4o",
+                "parent_id": "f565c3ef-58a9-413e-83fc-795d10ffdb52",
+                "model_switcher_deny": []
+            },
+            "recipient": "all",
+            "channel": null
+        },
+        "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10",
+        "error": null
+    },
+    "c": 3
+}  
+
+event: delta
+data: {
+    "p": "/message/content/parts/0",
+    "o": "append",
+    "v": "Hi"
+}     
+
+event: delta
+data: {
+    "v": "! How's your"
+}   
+
+event: delta
+data: {
+    "v": " day going"
+}     
+
+event: delta
+data: {
+    "p": "",
+    "o": "patch",
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "?"
+        },
+        {
+            "p": "/message/status",
+            "o": "replace",
+            "v": "finished_successfully"
+        },
+        {
+            "p": "/message/end_turn",
+            "o": "replace",
+            "v": true
+        },
+        {
+            "p": "/message/metadata",
+            "o": "append",
+            "v": {
+                "finish_details": {
+                    "type": "stop",
+                    "stop_tokens": [
+                        200002
+                    ]
+                },
+                "is_complete": true
+            }
+        }
+    ]
+}   
+
+data: {
+    "type": "message_stream_complete",
+    "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10"
+}
+
+data: {
+    "type": "title_generation",
+    "title": "Hi Conversation",
+    "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10"
+}
+
+data: {
+    "type": "conversation_detail_metadata",
+    "banner_info": null,
+    "blocked_features": [],
+    "model_limits": [],
+    "limits_progress": [
+        {
+            "feature_name": "deep_research",
+            "remaining": 10,
+            "reset_after": "2025-03-29T10:09:13.930429+00:00"
+        }
+    ],
+    "default_model_slug": "gpt-4o",
+    "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10"
+}
+
+data: [DONE
+]
+
+
+
+
+
+
+
+event: delta_encoding
+data: "v1"
+
+event: delta
+data: {
+    "p": "",
+    "o": "add",
+    "v": {
+        "message": {
+            "id": "1dc5c815-5891-4325-98e1-c53cf0ca4f39",
+            "author": {
+                "role": "assistant",
+                "name": null,
+                "metadata": {}
+            },
+            "create_time": 1740651216.99743,
+            "update_time": null,
+            "content": {
+                "content_type": "text",
+                "parts": [
+                    ""
+                ]
+            },
+            "status": "in_progress",
+            "end_turn": null,
+            "weight": 1.0,
+            "metadata": {
+                "citations": [],
+                "content_references": [],
+                "message_type": "next",
+                "model_slug": "gpt-4o",
+                "default_model_slug": "gpt-4o",
+                "parent_id": "0079c4d2-de58-4db2-b36c-e2f4f9ae89dd",
+                "model_switcher_deny": []
+            },
+            "recipient": "all",
+            "channel": null
+        },
+        "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10",
+        "error": null
+    },
+    "c": 0
+}      
+
+event: delta
+data: {
+    "p": "/message/content/parts/0",
+    "o": "append",
+    "v": "Of course"
+}      
+
+event: delta
+data: {
+    "v": "!"
+}      
+
+event: delta
+data: {
+    "v": " How can"
+}       
+
+event: delta
+data: {
+    "v": " I help you"
+}    
+
+event: delta
+data: {
+    "p": "",
+    "o": "patch",
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "?"
+        },
+        {
+            "p": "/message/status",
+            "o": "replace",
+            "v": "finished_successfully"
+        },
+        {
+            "p": "/message/end_turn",
+            "o": "replace",
+            "v": true
+        },
+        {
+            "p": "/message/metadata",
+            "o": "append",
+            "v": {
+                "finish_details": {
+                    "type": "stop",
+                    "stop_tokens": [
+                        200002
+                    ]
+                },
+                "is_complete": true
+            }
+        }
+    ]
+}   
+
+data: {
+    "type": "message_stream_complete",
+    "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10"
+}
+
+data: {
+    "type": "conversation_detail_metadata",
+    "banner_info": null,
+    "blocked_features": [],
+    "model_limits": [],
+    "limits_progress": null,
+    "default_model_slug": "gpt-4o",
+    "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10"
+}
+
+data: [DONE
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+event: delta_encoding
+data: "v1"
+
+event: delta
+data: {
+    "p": "",
+    "o": "add",
+    "v": {
+        "message": {
+            "id": "263ca518-839e-4437-b177-cadb78d83690",
+            "author": {
+                "role": "assistant",
+                "name": null,
+                "metadata": {}
+            },
+            "create_time": 1740651934.565195,
+            "update_time": null,
+            "content": {
+                "content_type": "code",
+                "language": "unknown",
+                "response_format_name": null,
+                "text": ""
+            },
+            "status": "in_progress",
+            "end_turn": null,
+            "weight": 1.0,
+            "metadata": {
+                "citations": [],
+                "content_references": [],
+                "message_type": "next",
+                "model_slug": "gpt-4o",
+                "default_model_slug": "gpt-4o",
+                "parent_id": "29e53c58-604f-42a9-9709-d39990bd9690",
+                "model_switcher_deny": [
+                    {
+                        "slug": "o1",
+                        "context": "regenerate",
+                        "reason": "unsupported_tool_use",
+                        "description": "This model doesn't support using tools."
+                    },
+                    {
+                        "slug": "o1",
+                        "context": "conversation",
+                        "reason": "unsupported_tool_use",
+                        "description": "This model doesn't support using tools."
+                    },
+                    {
+                        "slug": "o1-mini",
+                        "context": "regenerate",
+                        "reason": "unsupported_tool_use",
+                        "description": "This model doesn't support using tools."
+                    },
+                    {
+                        "slug": "o1-mini",
+                        "context": "conversation",
+                        "reason": "unsupported_tool_use",
+                        "description": "This model doesn't support using tools."
+                    }
+                ]
+            },
+            "recipient": "web",
+            "channel": null
+        },
+        "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10",
+        "error": null
+    },
+    "c": 0
+}   
+
+event: delta
+data: {
+    "o": "patch",
+    "v": [
+        {
+            "p": "/message/content/text",
+            "o": "append",
+            "v": "search(\"what is time now\")"
+        },
+        {
+            "p": "/message/status",
+            "o": "replace",
+            "v": "finished_successfully"
+        },
+        {
+            "p": "/message/metadata",
+            "o": "append",
+            "v": {
+                "finish_details": {
+                    "type": "stop"
+                },
+                "is_complete": true
+            }
+        }
+    ]
+}    
+
+event: delta
+data: {
+    "o": "add",
+    "v": {
+        "message": {
+            "id": "c9c4eb2e-10b9-43aa-bb39-3dee32ab0713",
+            "author": {
+                "role": "tool",
+                "name": "web",
+                "metadata": {}
+            },
+            "create_time": 1740651935.1262634,
+            "update_time": null,
+            "content": {
+                "content_type": "code",
+                "language": "unknown",
+                "response_format_name": null,
+                "text": ""
+            },
+            "status": "finished_successfully",
+            "end_turn": null,
+            "weight": 0.0,
+            "metadata": {
+                "is_visually_hidden_from_conversation": true,
+                "command": "search",
+                "status": "finished",
+                "is_complete": true,
+                "message_type": "next",
+                "model_slug": "gpt-4o",
+                "default_model_slug": "gpt-4o",
+                "parent_id": "263ca518-839e-4437-b177-cadb78d83690",
+                "model_switcher_deny": [
+                    {
+                        "slug": "o1",
+                        "context": "regenerate",
+                        "reason": "unsupported_tool_use",
+                        "description": "This model doesn't support using tools."
+                    },
+                    {
+                        "slug": "o1",
+                        "context": "conversation",
+                        "reason": "unsupported_tool_use",
+                        "description": "This model doesn't support using tools."
+                    },
+                    {
+                        "slug": "o1-mini",
+                        "context": "regenerate",
+                        "reason": "unsupported_tool_use",
+                        "description": "This model doesn't support using tools."
+                    },
+                    {
+                        "slug": "o1-mini",
+                        "context": "conversation",
+                        "reason": "unsupported_tool_use",
+                        "description": "This model doesn't support using tools."
+                    }
+                ]
+            },
+            "recipient": "assistant",
+            "channel": null
+        },
+        "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10",
+        "error": null
+    },
+    "c": 1
+}    
+
+event: delta
+data: {
+    "v": {
+        "message": {
+            "id": "767717e1-d688-4b37-bda0-780355f210d9",
+            "author": {
+                "role": "assistant",
+                "name": null,
+                "metadata": {
+                    "real_author": "tool:web"
+                }
+            },
+            "create_time": 1740651935.12692,
+            "update_time": null,
+            "content": {
+                "content_type": "text",
+                "parts": [
+                    ""
+                ]
+            },
+            "status": "in_progress",
+            "end_turn": null,
+            "weight": 1.0,
+            "metadata": {
+                "search_source": "composer_auto",
+                "client_reported_search_source": "composer_auto",
+                "search_result_groups": [],
+                "safe_urls": [],
+                "message_type": "next",
+                "model_slug": "gpt-4o",
+                "default_model_slug": "gpt-4o",
+                "parent_id": "c9c4eb2e-10b9-43aa-bb39-3dee32ab0713",
+                "model_switcher_deny": [
+                    {
+                        "slug": "o1",
+                        "context": "regenerate",
+                        "reason": "unsupported_tool_search",
+                        "description": "This model doesn't support search."
+                    },
+                    {
+                        "slug": "o1",
+                        "context": "conversation",
+                        "reason": "unsupported_tool_search",
+                        "description": "This model doesn't support search."
+                    },
+                    {
+                        "slug": "o1-mini",
+                        "context": "regenerate",
+                        "reason": "unsupported_tool_search",
+                        "description": "This model doesn't support search."
+                    },
+                    {
+                        "slug": "o1-mini",
+                        "context": "conversation",
+                        "reason": "unsupported_tool_search",
+                        "description": "This model doesn't support search."
+                    },
+                    {
+                        "slug": "gpt-4o-canmore",
+                        "context": "regenerate",
+                        "reason": "unsupported_tool_search",
+                        "description": "This model doesn't support search."
+                    },
+                    {
+                        "slug": "gpt-4o-canmore",
+                        "context": "conversation",
+                        "reason": "unsupported_tool_search",
+                        "description": "This model doesn't support search."
+                    }
+                ]
+            },
+            "recipient": "all",
+            "channel": null
+        },
+        "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10",
+        "error": null
+    },
+    "c": 2
+}    
+
+event: delta
+data: {
+    "p": "/message/metadata/message_locale",
+    "v": "en-US"
+} 
+
+event: delta
+data: {
+    "p": "",
+    "o": "patch",
+    "v": [
+        {
+            "p": "/message/metadata/search_result_groups",
+            "o": "append",
+            "v": [
+                {
+                    "type": "search_result_group",
+                    "domain": "timeanddate.com",
+                    "entries": [
+                        {
+                            "type": "search_result",
+                            "url": "https://www.timeanddate.com/worldclock/india/new-delhi",
+                            "title": "Current Local Time in New Delhi, Delhi, India - Time and Date",
+                            "snippet": "Current Local Time in New Delhi, Delhi, India \u00b7 Weather \u00b7 Time Zone \u00b7 No DST \u00b7 Difference \u00b7 Sunrise \u00b7 Sunset \u00b7 Day length \u00b7 Moon 0.7%. Rise \u2013 6:22 ...",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 0
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "timeanddate.com"
+                        },
+                        {
+                            "type": "search_result",
+                            "url": "https://www.timeanddate.com/worldclock/india/delhi",
+                            "title": "Current Local Time in Delhi, Delhi, India - Time and Date",
+                            "snippet": "Current Local Time in Delhi, Delhi, India \u00b7 Weather \u00b7 Time Zone \u00b7 No DST \u00b7 Difference \u00b7 Sunrise \u00b7 Sunset \u00b7 Day length \u00b7 Moon 0.6%. Rise \u2013 6:22 am",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 1
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "timeanddate.com"
+                        }
+                    ]
+                },
+                {
+                    "type": "search_result_group",
+                    "domain": "worldtimebuddy.com",
+                    "entries": [
+                        {
+                            "type": "search_result",
+                            "url": "https://www.worldtimebuddy.com/india-new-delhi",
+                            "title": "Time in New Delhi, India - World Time Buddy",
+                            "snippet": "Current time zone for New Delhi, India is IST, whose offset is GMT+5.5. It currently does not observe Daylight Savings Time.",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 2
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "worldtimebuddy.com"
+                        }
+                    ]
+                },
+                {
+                    "type": "search_result_group",
+                    "domain": "time.is",
+                    "entries": [
+                        {
+                            "type": "search_result",
+                            "url": "https://time.is/New_Delhi",
+                            "title": "Time in New Delhi, National Capital Territory of Delhi, India now",
+                            "snippet": "Exact time now, time zone, time difference, sunrise/sunset time and key facts for New Delhi, National Capital Territory of Delhi, India.",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 3
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "time.is"
+                        }
+                    ]
+                },
+                {
+                    "type": "search_result_group",
+                    "domain": "24timezones.com",
+                    "entries": [
+                        {
+                            "type": "search_result",
+                            "url": "https://24timezones.com/New-Delhi/time",
+                            "title": "What time is it in New Delhi, India right now? - 24 Time Zones",
+                            "snippet": "Current local time in New Delhi. New Delhi. 71611PM. Wednesday, February 26, 2025. New Delhi time to your local time converter. New Delhi is the capital of ...",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 4
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "24timezones.com"
+                        },
+                        {
+                            "type": "search_result",
+                            "url": "https://24timezones.com/Delhi/time",
+                            "title": "Current time in Delhi, India - 24 Time Zones",
+                            "snippet": "Standard time zone: UTC/GMT +5:30 hours. No daylight saving time at the moment. Airports. Airport, IATA, ICAO, Distance to Delhi.",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 7
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "24timezones.com"
+                        }
+                    ]
+                },
+                {
+                    "type": "search_result_group",
+                    "domain": "zeitverschiebung.net",
+                    "entries": [
+                        {
+                            "type": "search_result",
+                            "url": "https://www.zeitverschiebung.net/en/city/1273294",
+                            "title": "Current Local Time in Delhi, India: Date, time zone, time difference ...",
+                            "snippet": "The time in Delhi is currently 13:30 hours ahead of the time in America/Los_Angeles. Your determined time zone: America/Los_Angeles.",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 5
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "zeitverschiebung.net"
+                        }
+                    ]
+                },
+                {
+                    "type": "search_result_group",
+                    "domain": "worldtimeserver.com",
+                    "entries": [
+                        {
+                            "type": "search_result",
+                            "url": "https://www.worldtimeserver.com/current_time_in_IN.aspx?city=New_Delhi",
+                            "title": "Current local time in New Delhi, India - WorldTimeServer.com",
+                            "snippet": "Current local time and date in New Delhi, India from a trusted independent resource.",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 6
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "worldtimeserver.com"
+                        }
+                    ]
+                },
+                {
+                    "type": "search_result_group",
+                    "domain": "dayspedia.com",
+                    "entries": [
+                        {
+                            "type": "search_result",
+                            "url": "https://dayspedia.com/time/in/New_Delhi/",
+                            "title": "Local Time in New Delhi, India - Dayspedia.com",
+                            "snippet": "Local Time in New Delhi, India \u00b7 Time difference New Delhi is 11.5 hours ahead of Northbrook \u00b7 Sunset & sunrise time Sunrise 06:48, Sunset 18:19, Day length 11: ...",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 8
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "dayspedia.com"
+                        }
+                    ]
+                },
+                {
+                    "type": "search_result_group",
+                    "domain": "clocks.world",
+                    "entries": [
+                        {
+                            "type": "search_result",
+                            "url": "https://clocks.world/time/india/delhi/",
+                            "title": "Current time in Delhi, India. - Clocks.world",
+                            "snippet": "The time in Delhi is 5 hours and 30 minutes ahead of UTC and 11 hours and 30 minutes ahead of Chicago. The timezone in Delhi is India Standard Time (IST). Delhi ...",
+                            "ref_id": {
+                                "turn_index": 0,
+                                "ref_type": "search",
+                                "ref_index": 9
+                            },
+                            "content_type": null,
+                            "pub_date": null,
+                            "attributions": null,
+                            "attribution": "clocks.world"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "p": "/message/metadata",
+            "o": "append",
+            "v": {
+                "citations": [],
+                "content_references": [],
+                "image_results": []
+            }
+        }
+    ]
+}     
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "\ue200"
+        },
+        {
+            "p": "/message/metadata/content_references",
+            "o": "append",
+            "v": [
+                {
+                    "matched_text": "\ue200",
+                    "start_idx": 0,
+                    "end_idx": 1,
+                    "refs": [
+                        "malformed"
+                    ],
+                    "alt": null,
+                    "prompt_text": null,
+                    "type": "hidden",
+                    "invalid": true
+                }
+            ]
+        },
+        {
+            "p": "/message/metadata/citations",
+            "o": "append",
+            "v": [
+                {
+                    "start_ix": 0,
+                    "end_ix": 1,
+                    "invalid_reason": "Unsupported, please upgrade"
+                }
+            ]
+        }
+    ]
+}  
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "time"
+        },
+        {
+            "p": "/message/metadata/content_references/0/matched_text",
+            "o": "append",
+            "v": "time"
+        },
+        {
+            "p": "/message/metadata/content_references/0/end_idx",
+            "o": "replace",
+            "v": 5
+        },
+        {
+            "p": "/message/metadata/citations/0/end_ix",
+            "o": "replace",
+            "v": 5
+        }
+    ]
+}
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "\ue202"
+        },
+        {
+            "p": "/message/metadata/content_references/0/matched_text",
+            "o": "append",
+            "v": "\ue202"
+        },
+        {
+            "p": "/message/metadata/content_references/0/end_idx",
+            "o": "replace",
+            "v": 6
+        },
+        {
+            "p": "/message/metadata/citations/0/end_ix",
+            "o": "replace",
+            "v": 6
+        }
+    ]
+}    
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "turn"
+        },
+        {
+            "p": "/message/metadata/content_references/0/matched_text",
+            "o": "append",
+            "v": "turn"
+        },
+        {
+            "p": "/message/metadata/content_references/0/end_idx",
+            "o": "replace",
+            "v": 10
+        },
+        {
+            "p": "/message/metadata/citations/0/end_ix",
+            "o": "replace",
+            "v": 10
+        }
+    ]
+}      
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "0"
+        },
+        {
+            "p": "/message/metadata/content_references/0/matched_text",
+            "o": "append",
+            "v": "0"
+        },
+        {
+            "p": "/message/metadata/content_references/0/end_idx",
+            "o": "replace",
+            "v": 11
+        },
+        {
+            "p": "/message/metadata/citations/0/end_ix",
+            "o": "replace",
+            "v": 11
+        }
+    ]
+}    
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "time"
+        },
+        {
+            "p": "/message/metadata/content_references/0/matched_text",
+            "o": "append",
+            "v": "time"
+        },
+        {
+            "p": "/message/metadata/content_references/0/end_idx",
+            "o": "replace",
+            "v": 15
+        },
+        {
+            "p": "/message/metadata/citations/0/end_ix",
+            "o": "replace",
+            "v": 15
+        }
+    ]
+}      
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "0"
+        },
+        {
+            "p": "/message/metadata/content_references/0/matched_text",
+            "o": "append",
+            "v": "0"
+        },
+        {
+            "p": "/message/metadata/content_references/0/end_idx",
+            "o": "replace",
+            "v": 16
+        },
+        {
+            "p": "/message/metadata/citations/0/end_ix",
+            "o": "replace",
+            "v": 16
+        }
+    ]
+}    
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": "\ue201"
+        },
+        {
+            "p": "/message/metadata/content_references/0/matched_text",
+            "o": "append",
+            "v": "\ue201"
+        },
+        {
+            "p": "/message/metadata/content_references/0/end_idx",
+            "o": "replace",
+            "v": 17
+        },
+        {
+            "p": "/message/metadata/content_references/0/refs/0",
+            "o": "replace",
+            "v": {
+                "turn_index": 0,
+                "ref_type": "time",
+                "ref_index": 0
+            }
+        },
+        {
+            "p": "/message/metadata/content_references/0/alt",
+            "o": "replace",
+            "v": "Feb 27, 2025, 3:55:37\u202fPM"
+        },
+        {
+            "p": "/message/metadata/content_references/0/type",
+            "o": "replace",
+            "v": "time"
+        },
+        {
+            "p": "/message/metadata/content_references/0/invalid",
+            "o": "remove"
+        },
+        {
+            "p": "/message/metadata/content_references/0",
+            "o": "append",
+            "v": {
+                "utc_time": "2025-02-27T10:25:37.069594+00:00",
+                "utc_offset": "+05:30"
+            }
+        },
+        {
+            "p": "/message/metadata/citations/0/end_ix",
+            "o": "replace",
+            "v": 17
+        }
+    ]
+} 
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/content/parts/0",
+            "o": "append",
+            "v": " "
+        },
+        {
+            "p": "/message/metadata/content_references",
+            "o": "append",
+            "v": [
+                {
+                    "matched_text": " ",
+                    "start_idx": 17,
+                    "end_idx": 17,
+                    "refs": [],
+                    "alt": "",
+                    "prompt_text": null,
+                    "type": "sources_footnote",
+                    "sources": [],
+                    "has_images": false
+                }
+            ]
+        },
+        {
+            "p": "/message/metadata/citations",
+            "o": "append",
+            "v": [
+                {
+                    "start_ix": 17,
+                    "end_ix": 17,
+                    "invalid_reason": "Unsupported, please upgrade"
+                }
+            ]
+        }
+    ]
+}
+
+event: delta
+data: {
+    "v": [
+        {
+            "p": "/message/status",
+            "o": "replace",
+            "v": "finished_successfully"
+        },
+        {
+            "p": "/message/end_turn",
+            "o": "replace",
+            "v": true
+        }
+    ]
+}  
+
+data: {
+    "type": "message_stream_complete",
+    "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10"
+}
+
+data: {
+    "type": "conversation_detail_metadata",
+    "banner_info": null,
+    "blocked_features": [],
+    "model_limits": [],
+    "limits_progress": [
+        {
+            "feature_name": "deep_research",
+            "remaining": 10,
+            "reset_after": "2025-03-29T10:25:37.760624+00:00"
+        }
+    ],
+    "default_model_slug": "gpt-4o",
+    "conversation_id": "67c039c6-fcb4-800e-ad79-93b4252a4a10"
+}
+
+data: [DONE
+]

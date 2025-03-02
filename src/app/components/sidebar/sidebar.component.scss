@@ -1,0 +1,52 @@
+.sidenav-container {
+  height: 100vh;
+  width: 250px;
+  background: var(--bg-light);
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  transition: background 0.3s;
+  background-color: #3a3a46;
+  color: white;
+}
+
+body.dark-mode .sidenav-container {
+  background: var(--bg-dark);
+}
+
+.sidenav {
+  width: 250px;
+  padding: 10px;
+  background: var(--bg-light);
+  color: var(--text-light);
+  transition: background 0.3s, color 0.3s;
+}
+
+body.dark-mode .sidenav {
+  background: var(--bg-dark);
+  color: var(--text-dark);
+}
+
+.mat-list-item {
+  cursor: pointer;
+  padding: 10px;
+  transition: background 0.3s;
+  color: white;
+}
+
+mat-list-item:hover {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+body.dark-mode mat-list-item:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+h3 {
+  padding: 15px;
+  font-family: Luxfont;
+  font-size: 30px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}

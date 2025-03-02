@@ -1,0 +1,15 @@
+<mat-sidenav-container class="sidenav-container">
+    <mat-sidenav mode="side" opened class="sidenav">
+      <h3>Jerdon Ai<span class="example-spacer"></span><mat-icon style="position: absolute;right: 20px;"> chat</mat-icon></h3>
+      <mat-list>
+        <mat-list-item *ngFor="let topic of chatTopics" (click)="selectTopic(topic)">
+          <p style="margin: 0;color: white;height: fit-content;background-color: transparent;">
+            {{ topic }}
+            
+          </p>
+          
+        </mat-list-item>
+      </mat-list>
+    </mat-sidenav>
+  </mat-sidenav-container>
+  
