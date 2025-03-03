@@ -22,12 +22,12 @@ export class ChatWindowComponent implements OnInit {
   
   ngOnInit(): void {
     this.ssendMessage()
-    // this.messages.push({ text: 'Hii', sender: 'user' });
-    // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
-    // this.messages.push({ text: 'Hii', sender: 'user' });
-    // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
-    // this.messages.push({ text: 'Hii', sender: 'user' });
-    // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
+    this.messages.push({ text: 'Hii', sender: 'user' });
+    this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
+    this.messages.push({ text: 'how are you?', sender: 'user' });
+    this.messages.push({ text: "I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help you with whatever you need! How are you doing? 😊", sender: 'bot' });
+    this.messages.push({ text: 'How is weather today', sender: 'user' });
+    this.messages.push({ text: "I don't have real-time data access, so I can't check the current weather for you. However, you can easily check the weather using a weather app, website, or by searching for your location on a platform like Google. Let me know if you need help with anything else! 😊", sender: 'bot' });
     // this.messages.push({ text: 'Hii', sender: 'user' });
     // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
     // this.messages.push({ text: 'Hii', sender: 'user' });

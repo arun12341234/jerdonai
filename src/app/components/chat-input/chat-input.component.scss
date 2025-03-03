@@ -11,7 +11,12 @@
     position: absolute;
     bottom: 35px;
 }
-
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .chat-input {
+        max-width: 85%; /* Wider input area on smaller screens */
+    }
+}
 .input-box {
     flex: 1;
     width: 100% !important;
@@ -23,6 +28,10 @@
     max-width: 100% !important;
     resize: none; /* Prevents manual resizing */
     color: #d8d8d8 !important;
+}
+.full-width-textarea::placeholder { /* CSS for the placeholder text */
+    color: #a0a0a0; /* Placeholder text color */
+    opacity: 1; /* Firefox reduces the opacity by default, so reset it if needed */
 }
 /* Scrollbar for WebKit-based browsers (Chrome, Safari, Edge) */
 .no-scrollbar::-webkit-scrollbar {
@@ -99,3 +108,5 @@
         border-color: transparent;
     }
 }
+
+

@@ -45,7 +45,11 @@ body.dark-mode .chat-window {
   /* IE & Edge */
   margin-top: 5vh;
 }
-
+@media (max-width: 768px) {
+  .chats {
+    width: 85%;
+  }
+}
 @keyframes fadeIn {
   from {
     opacity: 0;

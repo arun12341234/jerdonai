@@ -50,6 +50,6 @@ import { JerdonAIResponseViewerComponent } from './jerdon-airesponse-viewer/jerd
     MatCardModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent, ChatComponent]
 })
 export class AppModule { }

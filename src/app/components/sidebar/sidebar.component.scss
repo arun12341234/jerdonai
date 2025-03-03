@@ -19,7 +19,18 @@ body.dark-mode .sidenav-container {
   color: var(--text-light);
   transition: background 0.3s, color 0.3s;
 }
-
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .sidenav-container {
+      max-width: 0%; /* Wider input area on smaller screens */
+  }
+  .sidenav{
+    max-width: 0%; /* Wider input area on smaller screens */
+  }
+  .chat-section{
+    max-width: 0%; /* Wider input area on smaller screens */
+  }
+}
 body.dark-mode .sidenav {
   background: var(--bg-dark);
   color: var(--text-dark);
