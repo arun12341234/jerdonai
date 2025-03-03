@@ -5,7 +5,8 @@
     </h2>
     <div class="chats" style="">
       <div *ngFor="let message of messages" class="message" [ngClass]="{'user': message.sender === 'user', 'bot': message.sender === 'bot'}">
-        <span>{{ message.text }}</span>
+        <!-- <span>{{ message.text }}</span> -->
+        <div [innerHtml]="message.text"></div>
         <div *ngIf="message.sender === 'bot'" class="feedback-buttons">
           <button  (click)="rateResponse(message, 'like')" [class.active]="message.feedback === 'like'">
             <mat-icon style="color: #A7A2A2;font-size: 20px;">filter_none</mat-icon>

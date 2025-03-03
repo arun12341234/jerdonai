@@ -21,6 +21,7 @@ import {MatChipsModule} from '@angular/material/chips';
 import { ChatComponent } from './chat/chat.component';
 import { HomeComponent } from './home/home.component';
 import {MatCardModule} from '@angular/material/card';
+import { JerdonAIResponseViewerComponent } from './jerdon-airesponse-viewer/jerdon-airesponse-viewer.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import {MatCardModule} from '@angular/material/card';
     ChatWindowComponent,
     ChatInputComponent,
     ChatComponent,
-    HomeComponent
+    HomeComponent,
+    JerdonAIResponseViewerComponent
   ],
   imports: [
     BrowserModule,

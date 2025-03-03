@@ -1,4 +1,6 @@
 import { Component, Output, EventEmitter, ViewEncapsulation } from '@angular/core';
+import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
+import * as marked from 'marked';
 
 @Component({
   selector: 'app-chat-input',

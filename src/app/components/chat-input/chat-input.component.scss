@@ -53,14 +53,15 @@
 /* Force Angular Material mat-form-field to expand */
 .custom-outline .mat-form-field-wrapper {
     width: 100% !important;
+
 }
 
 .custom-outline.mat-form-field-appearance-outline .mat-form-field-outline {
-    border-color: #A7A2A2 !important; /* Green outline */
+    border-color: #d62626 !important; /* Green outline */
 }
 
 .custom-outline.mat-form-field-appearance-outline .mat-form-field-outline-thick {
-    border-width: 2px !important; /* Thicker outline */
+    border-width: 22px !important; /* Thicker outline */
 }
 .footer{
     // display: flex;
@@ -80,4 +81,21 @@
     // align-self: flex-start;
     background-color: transparent;
     position: absolute;
+}
+
+.mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field--focused .mdc-notched-outline__leading, .mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field--focused .mdc-notched-outline__notch, .mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field--focused .mdc-notched-outline__trailing{
+
+
+    border-color: transparent;
+    ::placeholder{
+        color: #d62626;
+    }
+}
+.mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field .mdc-notched-outline__leading, .mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field .mdc-notched-outline__notch, .mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field .mdc-notched-outline__trailing{
+
+
+    border-color: transparent;
+    :hover{
+        border-color: transparent;
+    }
 }
