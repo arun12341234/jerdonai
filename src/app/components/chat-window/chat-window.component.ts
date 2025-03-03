@@ -21,25 +21,19 @@ export class ChatWindowComponent implements OnInit {
     private sanitizer: DomSanitizer) {}
   
   ngOnInit(): void {
-    this.ssendMessage()
+    // this.ssendMessage()
     this.messages.push({ text: 'Hii', sender: 'user' });
     this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
     this.messages.push({ text: 'how are you?', sender: 'user' });
     this.messages.push({ text: "I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help you with whatever you need! How are you doing? 😊", sender: 'bot' });
     this.messages.push({ text: 'How is weather today', sender: 'user' });
     this.messages.push({ text: "I don't have real-time data access, so I can't check the current weather for you. However, you can easily check the weather using a weather app, website, or by searching for your location on a platform like Google. Let me know if you need help with anything else! 😊", sender: 'bot' });
-    // this.messages.push({ text: 'Hii', sender: 'user' });
-    // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
-    // this.messages.push({ text: 'Hii', sender: 'user' });
-    // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
-    // this.messages.push({ text: 'Hii', sender: 'user' });
-    // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
-    // this.messages.push({ text: 'Hii', sender: 'user' });
-    // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
-    // this.messages.push({ text: 'Hii', sender: 'user' });
-    // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
-    // this.messages.push({ text: 'Hii', sender: 'user' });
-    // this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
+    this.messages.push({ text: 'Hii', sender: 'user' });
+    this.messages.push({ text: 'Hello! How can I assist you today? 😊', sender: 'bot' });
+    this.messages.push({ text: 'how are you?', sender: 'user' });
+    this.messages.push({ text: "I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help you with whatever you need! How are you doing? 😊", sender: 'bot' });
+    this.messages.push({ text: 'How is weather today', sender: 'user' });
+    this.messages.push({ text: "I don't have real-time data access, so I can't check the current weather for you. However, you can easily check the weather using a weather app, website, or by searching for your location on a platform like Google. Let me know if you need help with anything else! 😊", sender: 'bot' });
     
   }
 
@@ -62,7 +56,7 @@ async handleMessage(newMessage: string): Promise<void> {
   const safeHtml = this.sanitizer.bypassSecurityTrustHtml(html);
   this.messages.push({
     text: safeHtml,
-    sender: 'user'
+    sender: 'bot'
   });
 }
   rateResponse(message: Message, feedback: 'like' | 'dislike') {
@@ -79,7 +73,8 @@ async handleMessage(newMessage: string): Promise<void> {
 
 
 
-  ssendMessage() {
+  ssendMessage(newMessage:any) {
+    this.messages.push({ text: newMessage, sender: 'user' });
     const data = {
       chat_session_id: "5bcade5a-fee0-473c-825c-d3de34b335de",
       parent_message_id: 2,
@@ -88,7 +83,8 @@ async handleMessage(newMessage: string): Promise<void> {
       thinking_enabled: false,
       search_enabled: false
     };
-
+    const bot_response = "# Jorder AI Soon Live\n\nWelcome to **Jorder AI Soon Live** - your go-to solution for tackling problems in seconds.\n\n## Available to Shoot Your Problems in Seconds\n\n- **Fast Response**: Get quick solutions to your issues.\n- **Accessibility**: We're here whenever you need us.\n- **Efficiency**: We handle your problems efficiently and effectively.\n\nFor more information, visit our [website](#) or contact us directly."
+    this.handleMessage(bot_response)
     // this.chatService.streamMessages(data, (message1) => {
     //   console.log(message1)
     //   // this.messages.push(message);

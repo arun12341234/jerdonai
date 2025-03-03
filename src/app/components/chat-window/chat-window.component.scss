@@ -28,6 +28,7 @@ body.dark-mode .chat-window {
   opacity: 0;
   animation: fadeIn 0.3s forwards;
   background-color: red;
+  
 }
 
 .chats {
@@ -36,7 +37,7 @@ body.dark-mode .chat-window {
   background-color: transparent;
   width: 50%;
   position: absolute;
-  height: 75vh;
+  height: 70vh;
   animation: fadeIn 0.3s forwards;
   overflow: scroll;
   scrollbar-width: none;
@@ -44,6 +45,7 @@ body.dark-mode .chat-window {
   -ms-overflow-style: none;
   /* IE & Edge */
   margin-top: 5vh;
+  margin-bottom: 20vh;
 }
 @media (max-width: 768px) {
   .chats {
