@@ -1,11 +1,13 @@
 <div fxLayout="column" fxLayoutAlign="space-between center" style="background-color: #3a3a46;">
   <!-- style="background-color: #3a3a46;" -->
   <div fxLayout="column" fxLayoutAlign="center center" class="chat-input" style="background-color: #3a3a46;">
-    <mat-form-field appearance="outline" class="border-red" style="width: 100%;color: aqua!important;border-color: #d62626 ;">
-      <textarea matInput [(ngModel)]="userInput" placeholder="Type a message..."
-                
-                class="full-width-textarea no-scrollbar"></textarea>
-    </mat-form-field>
+    <div class="custom-form-field">
+      <textarea [(ngModel)]="userInput" 
+                (input)="autoResize($event)" 
+                (keydown.enter)="onEnterKey($any($event))" 
+                placeholder="Ask with Jerdon..." 
+                class="custom-textarea"></textarea>
+    </div>
     <div fxLayout="row" fxLayoutAlign="space-between center" style="width: 100%;">
       <div fxLayout="row" fxLayoutGap="10px">
         <!-- <button mat-icon-button aria-label="Example icon button with a menu icon" style="color: white;padding: 0px;height: 40px;">
@@ -16,10 +18,10 @@
             <img
               matChipAvatar
               src="../../../assets/jerdon.avif"
-              alt="Photo of a Shiba Inu"
+              alt="Photo of a jerdon courser"
             />
             <span style="color: white;">
-              Jerdon’s Courser (JC1)
+              JC1-Inference (JC1)
             </span>
           </mat-chip>
         </mat-chip-set>

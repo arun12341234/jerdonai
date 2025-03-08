@@ -22,6 +22,7 @@ import { ChatComponent } from './chat/chat.component';
 import { HomeComponent } from './home/home.component';
 import {MatCardModule} from '@angular/material/card';
 import { JerdonAIResponseViewerComponent } from './jerdon-airesponse-viewer/jerdon-airesponse-viewer.component';
+import {MatSnackBarModule} from '@angular/material/snack-bar';
 
 @NgModule({
   declarations: [
@@ -47,7 +48,8 @@ import { JerdonAIResponseViewerComponent } from './jerdon-airesponse-viewer/jerd
     MatButtonModule,
     FlexLayoutModule,
     MatChipsModule,
-    MatCardModule
+    MatCardModule,
+    MatSnackBarModule
   ],
   providers: [],
   bootstrap: [AppComponent, ChatComponent]

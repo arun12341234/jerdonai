@@ -8,7 +8,7 @@
         <!-- <span>{{ message.text }}</span> -->
         <div [innerHtml]="message.text"></div>
         <div *ngIf="message.sender === 'bot'" class="feedback-buttons">
-          <button  (click)="rateResponse(message, 'like')" [class.active]="message.feedback === 'like'">
+          <button  (click)="copyResponse(message.text)" [class.active]="message.feedback === 'like'">
             <mat-icon style="color: #A7A2A2;font-size: 20px;">filter_none</mat-icon>
           </button>
           <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'like')" [class.active]="message.feedback === 'like'">

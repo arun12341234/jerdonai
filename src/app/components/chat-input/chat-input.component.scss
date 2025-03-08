@@ -1,3 +1,28 @@
+.custom-form-field {
+    width: 100%;
+    position: relative;
+    border: 0px solid #d62626; /* Border color */
+    border-radius: 4px; /* Optional: Adds rounded corners */
+    padding: 8px; /* Optional: Adds some padding inside the border */
+  }
+  
+  .custom-textarea {
+    width: 100%;
+    border: none;
+    outline: none;
+    background: none;
+    resize: none; /* Prevents resizing */
+    color: white; /* Text color */
+    // font-family: inherit; /* Optional: Ensures the font is consistent */
+    font-size: inherit; /* Optional: Ensures the font size is consistent */
+    overflow: hidden; /* Hides the scrollbar */
+    max-height: 500px; /* Maximum height */
+  }
+  
+  .custom-textarea::placeholder {
+    color: #888; /* Placeholder text color */
+  }
+
 .chat-input {
     display: flex;
     align-items: center;

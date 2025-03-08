@@ -1,8 +1,10 @@
-import { Component, OnInit, NgZone, ViewChild, ElementRef } from '@angular/core';
-import { DomSanitizer } from '@angular/platform-browser';
+import { Component, OnInit, NgZone, ViewChild, ElementRef, inject } from '@angular/core';
+import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { ChatService } from 'src/app/chat.service';
 import { MarkdownService } from 'src/app/markdown.service';
 import { marked } from 'marked';
+import * as toastr from 'toastr';
+import { MatSnackBar, MatSnackBarRef } from '@angular/material/snack-bar';
 interface Message {
   text: any;
   sender: 'user' | 'bot';
@@ -18,8 +20,11 @@ export class ChatWindowComponent implements OnInit {
   @ViewChild('chatContainer') private chatContainer!: ElementRef;
   messages: Message[] = [];
   loading: boolean = false;
+  shouldScroll: boolean = true; // Flag to control scrolling
   constructor(private chatService: ChatService, private ngZone: NgZone,private markdownService: MarkdownService,
     private sanitizer: DomSanitizer) {}
+
+    private _snackBar = inject(MatSnackBar);
   
   ngOnInit(): void {
     // this.ssendMessage()
@@ -62,7 +67,9 @@ export class ChatWindowComponent implements OnInit {
 
 
   ngAfterViewChecked(): void {
+    if (this.shouldScroll) {
     this.scrollToBottom();
+    }
   }
 
   scrollToBottom(): void {
@@ -86,6 +93,7 @@ export class ChatWindowComponent implements OnInit {
   }
 
   ssendMessage(newMessage:any) {
+    this.shouldScroll = true; // Enable scrolling
     this.messages.push({ text: newMessage, sender: 'user' });
     this.scrollToBottom();
     const data = {
@@ -139,4 +147,107 @@ export class ChatWindowComponent implements OnInit {
 
 
 
+
+// Strip Markdown syntax and return plain text
+stripMarkdown(markdown: string | undefined | null): string {
+  if (typeof markdown !== 'string') {
+    console.warn('stripMarkdown: Expected a string, but got:', markdown);
+    return '';
+  }
+
+  // Remove Markdown syntax
+  let plainText = markdown
+    .replace(/#+\s*/g, '') // Headings
+    .replace(/\*\*|\*/g, '') // Bold/italic
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Links
+    .replace(/!\[([^\]]+)\]\([^)]+\)/g, '') // Images
+    .replace(/^\s*[-*+]\s+/gm, '') // Lists
+    .replace(/^>\s*/gm, '') // Blockquotes
+    .replace(/```[\s\S]*?```/g, '') // Code blocks
+    .replace(/`([^`]+)`/g, '$1') // Inline code
+    .trim(); // Trim extra spaces
+
+  return plainText;
+}
+
+async copyResponse(html: SafeHtml | string | undefined | null): Promise<void> {
+  this.shouldScroll = false; // Disable scrolling temporarily
+  let rawHtml:any
+
+  // Extract raw HTML from SafeHtmlImpl
+  if (typeof html === 'object' && html !== null && 'changingThisBreaksApplicationSecurity' in html) {
+    rawHtml = html.changingThisBreaksApplicationSecurity;
+  } else if (typeof html === 'string') {
+    rawHtml = html;
+  } else {
+    console.error('copyResponse: Expected a string or SafeHtml, but got:', html);
+    return;
+  }
+
+  // Strip HTML tags and get plain text
+  const plainText = this.stripHtmlTags(rawHtml);
+  console.log('Plain text:', plainText);
+
+  try {
+    // Try using the modern clipboard API
+    await navigator.clipboard.writeText(plainText);
+    console.log('Copied to clipboard:', plainText);
+    // toastr.options.positionClass = 'toast-top-center';
+    // toastr.success('Copied to clipboard');
+    this._snackBar.openFromComponent(SbarComponent, {
+    // open('Copied to clipboard', '', {
+      horizontalPosition: "center",
+      verticalPosition: "top",
+      duration: 1000,
+    });
+  } catch (err) {
+    console.error('Modern clipboard API failed, using fallback:', err);
+    this.fallbackCopyText(plainText);
+  }
+}
+
+// Utility function to strip HTML tags
+stripHtmlTags(html: string): string {
+  const tempElement = document.createElement('div');
+  tempElement.innerHTML = html;
+  return tempElement.textContent || tempElement.innerText || '';
+}
+
+
+// Fallback for copying text (for older browsers)
+private fallbackCopyText(text: string): void {
+  const textArea = document.createElement('textarea');
+  textArea.value = text;
+  textArea.style.position = 'fixed';
+  document.body.appendChild(textArea);
+  textArea.focus();
+  textArea.select();
+
+  try {
+    const successful = document.execCommand('copy');
+    if (successful) {
+      console.log('Fallback copy successful:', text);
+    } else {
+      console.error('Fallback copy failed');
+    }
+  } catch (fallbackErr) {
+    console.error('Fallback copy error:', fallbackErr);
+  } finally {
+    document.body.removeChild(textArea);
+  }
+}
+}
+
+
+
+
+
+
+
+@Component({
+  selector: 'snack-bar-component-example-snack',
+  templateUrl: 'snack-bar-component-example-snack.html'
+})
+export class SbarComponent {
+  snackBarRef = inject(MatSnackBarRef);
 }
