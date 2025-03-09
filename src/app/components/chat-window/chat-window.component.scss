@@ -24,6 +24,7 @@ body.dark-mode .chat-window {
   border-radius: 10px;
   opacity: 0;
   animation: fadeIn 0.3s forwards;
+  margin-bottom: 300px;
   // background-color: red;
 }
 
@@ -34,10 +35,10 @@ body.dark-mode .chat-window {
   // background-color: green;
   width: 50%;
   position: fixed;
-  height: 75vh;
+  height: 70vh;
   overflow: scroll;
   margin-top: 5vh;
-  margin-bottom: 20vh;
+  margin-bottom: 70vh;
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* IE & Edge */
 }
