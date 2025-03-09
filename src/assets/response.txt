@@ -1,0 +1,2180 @@
+data: {"choices":[{"index":0,"delta":{"content":"","type":"text"}}],"model":"","prompt_token_usage":33649,"chunk_token_usage":0,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Here","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"’","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"s","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"final","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" for","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" reading","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" by","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" in","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Node","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".js","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**,","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Ang","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"ular","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**,","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" and","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"b","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"rowser","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**.","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Choose","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" one","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" that","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" fits","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" your","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" environment","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"---\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"###","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"1","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Node","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".js","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"This","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" reads","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" by","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" using","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"fs","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" and","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" modules","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"####","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"types","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"cript","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"import","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" *","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" as","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" fs","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" from","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"fs","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"';\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"import","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" *","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" as","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" from","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"';\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"//","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Path","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" to","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Path","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".txt","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"';\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"//","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Create","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" readable","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" stream","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" from","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Stream","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" fs","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".create","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Stream","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"(file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Path","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":");\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"//","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Create","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" an","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" interface","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" to","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" by","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" r","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"l","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".create","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Interface","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"({\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" input","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Stream","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":",\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" cr","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"lf","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Delay","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Infinity","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" //","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Recognize","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" all","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" instances","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" of","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" CR","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" LF","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ('","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\\","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"r","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"')","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" as","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" single","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" break","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"});\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"//","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" by","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"rl","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".on","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"',","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" (","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":")","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =>","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" console","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".log","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":',","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":");\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"});\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"//","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Handle","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" end","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"rl","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".on","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"close","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"',","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ()","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =>","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" console","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".log","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" reading","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" completed","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".');\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"});\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"####","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Steps","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"1","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Save","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" as","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"-file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".ts","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`.\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"2","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Save","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" your","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" as","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".txt","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" in","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" same","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" directory","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"3","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Run","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" using","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"  ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ```","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"bash","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"  ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ts","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"-node","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"-file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".ts","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"  ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ```\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"---\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"###","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"2","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Angular","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"This","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" reads","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" by","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" in","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" an","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Angular","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" application","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" using","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Http","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Client","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`.\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"####","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Service","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" (`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".service","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".ts","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"):\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"types","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"cript","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"import","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" HttpClient","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" from","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '@","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"angular","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"/common","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"/http","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"';\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"import","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Injectable","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" from","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '@","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"angular","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"/core","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"';\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"@","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Injectable","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"({\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" provided","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"In","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"root","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"'\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"})\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"export","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" class","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Service","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" constructor","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"(private","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" http","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" HttpClient","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":")","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {}\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" get","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"():","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Promise","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"<string","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":">","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"   ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" return","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" this","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".http","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".get","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('/","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"assets","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"/file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".txt","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"',","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" response","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Type","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"'","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }).","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"to","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Promise","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"();\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"}\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"####","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Component","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" (`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"app","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".component","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".ts","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"):\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"types","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"cript","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"import","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Component","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":",","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" OnInit","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" from","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '@","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"angular","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"/core","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"';\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"import","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Service","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" from","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" './","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".service","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"';\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"@Component","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"({\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" selector","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"app","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"-root","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"',\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" template","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"   ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" <","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"div","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" *","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"ng","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"For","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"=\"","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"let","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" of","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" lines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":";","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" let","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" i","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" index","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\">\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"     ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {{","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" i","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" +","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"1","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }}","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {{","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }}\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"   ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" </","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"div","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":">\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"})\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"export","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" class","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" App","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Component","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" implements","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" OnInit","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" lines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" string","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"[]","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" [];\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" constructor","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"(private","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Service","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Service","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":")","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {}\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" async","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ngOnInit","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"()","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"   ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Content","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" await","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" this","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Service","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".get","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"();\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"   ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" this","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".l","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"ines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Content","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".split","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('\\","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"');","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" //","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Split","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" into","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" lines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"}\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"####","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Steps","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"1","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Save","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" as","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".txt","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" in","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"src","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"/assets","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" folder","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"2","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Add","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" service","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" and","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" component","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" to","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" your","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Angular","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" application","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"3","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Run","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" application","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" using","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"  ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ```","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"bash","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"  ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ng","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" serve","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"  ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ```\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"---\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"###","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"3","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Browser","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"This","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" reads","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" by","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" in","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" browser","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" using","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Reader","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" API","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"####","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" HTML","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"html","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"<input","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" type","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"=\"","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\"","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" id","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"=\"","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Input","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\"","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" />\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"<","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"pre","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" id","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"=\"","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"output","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\"></","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"pre","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":">\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"<script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":">\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" document","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".getElementById","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Input","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"').","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"add","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"EventListener","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"change","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"',","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" (","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"event","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":")","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =>","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"   ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" event","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".target","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".f","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"iles","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"[","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"0","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"];\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"   ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" if","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" (","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":")","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"     ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" reader","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" new","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Reader","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"();\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"     ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" reader","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".on","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"load","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" (","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"e","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":")","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =>","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"       ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" e","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".target","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".result","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":";\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"       ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" lines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".split","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('\\","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"');","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" //","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Split","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" into","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" lines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"       ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" output","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" document","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".getElementById","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"output","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"');\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"       ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" lines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".forEach","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"((","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":",","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" index","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":")","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =>","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"         ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" output","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".innerHTML","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" +=","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ${","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"index","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" +","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"1","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"}:","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ${","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"}<","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"br","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":">","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`;\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"       ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" });\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"     ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" };\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"     ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" reader","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"As","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"(file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":");","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" //","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" as","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"   ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" }\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" });\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"</","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":">\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"####","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Steps","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"1","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Save","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" HTML","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" and","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" open","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" it","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" in","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" browser","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"2","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Select","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" using","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" input","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"3","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" The","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" content","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" will","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" be","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" displayed","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" by","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"---\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"###","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"4","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Den","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"o","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"This","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" reads","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" a","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" by","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" in","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Den","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"o","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"####","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"types","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"cript","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Path","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" '","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".txt","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"';\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"//","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" content","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Content","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" await","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Den","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"o","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"(file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Path","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":");\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"//","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Split","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" content","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" into","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" lines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"const","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" lines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Content","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".split","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"('\\","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"');\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"//","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Process","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" each","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"lines","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".forEach","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"((","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":",","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" index","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":")","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" =>","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" {\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" console","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".log","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"(`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ${","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"index","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" +","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"1","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"}:","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ${","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"}`);\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"});\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"```\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"####","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Steps","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"1","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Save","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" as","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"-file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".ts","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`.\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"2","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Save","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" your","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" as","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".txt","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" in","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" same","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" directory","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"3","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Run","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" script","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" using","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":":\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"  ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ```","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"bash","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"  ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" den","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"o","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" run","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" --","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"allow","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"-read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"-file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".ts","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"  ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" ```\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"---\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"###","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Key","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Points","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"|","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Environment","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"      ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Method","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"                         ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"|","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"----------------","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"---","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"|","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"--------------------------------","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"-","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"|","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"|","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Node","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".js","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"      ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Use","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"fs","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" and","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"line","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" modules","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"|","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Ang","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"ular","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"      ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Use","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Http","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Client","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" to","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" fetch","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" file","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" and","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" split","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" content","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"|","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Browser","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"      ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Use","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" the","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Reader","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" API","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"      ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"|","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" **","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Den","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"o","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"**","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"         ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" Use","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" `","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Den","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"o","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":".read","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Text","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"File","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"`.","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"       ","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" |\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"---\n\n","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"Let","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" me","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" know","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" if","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" you","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" need","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" further","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" assistance","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":"!","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"content":" 😊","type":"text"}}],"model":"","chunk_token_usage":2,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"index":0,"delta":{"type":"text","role":"assistant"}}],"model":"","chunk_token_usage":0,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: {"choices":[{"finish_reason":"stop","index":0,"delta":{"content":"","type":"text","role":"assistant"}}],"model":"","chunk_token_usage":0,"created":1741528714,"message_id":89,"parent_id":88}
+
+data: [DONE]
+

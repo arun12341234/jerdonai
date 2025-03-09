@@ -1,28 +1,32 @@
+/* General form field styling */
 .custom-form-field {
     width: 100%;
     position: relative;
     border: 0px solid #d62626; /* Border color */
-    border-radius: 4px; /* Optional: Adds rounded corners */
-    padding: 8px; /* Optional: Adds some padding inside the border */
-  }
-  
-  .custom-textarea {
-    width: 100%;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+/* Textarea styling */
+.custom-textarea,
+.full-width-textarea {
+    width: 100% !important;
     border: none;
     outline: none;
     background: none;
-    resize: none; /* Prevents resizing */
-    color: white; /* Text color */
-    // font-family: inherit; /* Optional: Ensures the font is consistent */
-    font-size: inherit; /* Optional: Ensures the font size is consistent */
-    overflow: hidden; /* Hides the scrollbar */
-    max-height: 500px; /* Maximum height */
-  }
-  
-  .custom-textarea::placeholder {
-    color: #888; /* Placeholder text color */
-  }
+    resize: none;
+    color: white;
+    font-size: inherit;
+    overflow: hidden;
+    max-height: 500px;
+}
 
+.custom-textarea::placeholder,
+.full-width-textarea::placeholder {
+    color: #888;
+}
+
+/* Chat input styling */
 .chat-input {
     display: flex;
     align-items: center;
@@ -32,106 +36,91 @@
     max-width: 50%;
     border-radius: 20px;
     background-color: rgba(0, 0, 0, 0.1);
-    // margin-top: 50vh;
     position: absolute;
     bottom: 35px;
 }
-/* Responsive adjustments for smaller screens */
+
 @media (max-width: 768px) {
     .chat-input {
-        max-width: 85%; /* Wider input area on smaller screens */
+        max-width: 85%;
     }
 }
+
+/* Input box styling */
 .input-box {
     flex: 1;
-    width: 100% !important;
 }
 
-.full-width-textarea {
-    width: 100% !important;
-    min-width: 100% !important;
-    max-width: 100% !important;
-    resize: none; /* Prevents manual resizing */
-    color: #d8d8d8 !important;
-}
-.full-width-textarea::placeholder { /* CSS for the placeholder text */
-    color: #a0a0a0; /* Placeholder text color */
-    opacity: 1; /* Firefox reduces the opacity by default, so reset it if needed */
-}
-/* Scrollbar for WebKit-based browsers (Chrome, Safari, Edge) */
+/* Scrollbar styling */
 .no-scrollbar::-webkit-scrollbar {
-    width: 8px; /* Width of the scrollbar */
+    width: 8px;
 }
 
 .no-scrollbar::-webkit-scrollbar-track {
-    background: #3a3a46; /* Track color */
+    background: #3a3a46;
     border-radius: 10px;
 }
 
 .no-scrollbar::-webkit-scrollbar-thumb {
-    background: #A7A2A2; /* Thumb color (green) */
+    background: #A7A2A2;
     border-radius: 10px;
 }
 
 .no-scrollbar::-webkit-scrollbar-thumb:hover {
-    background: #A7A2A2; /* Darker green when hovered */
+    background: #A7A2A2;
 }
 
-/* Scrollbar for Firefox */
 .no-scrollbar {
     scrollbar-width: thin;
-    scrollbar-color: #A7A2A2 #3a3a46; /* Thumb color, Track color */
+    scrollbar-color: #A7A2A2 #3a3a46;
 }
 
-
-/* Force Angular Material mat-form-field to expand */
+/* Angular Material form field outline styling */
 .custom-outline .mat-form-field-wrapper {
     width: 100% !important;
-
 }
 
 .custom-outline.mat-form-field-appearance-outline .mat-form-field-outline {
-    border-color: #d62626 !important; /* Green outline */
+    border-color: #d62626 !important;
 }
 
 .custom-outline.mat-form-field-appearance-outline .mat-form-field-outline-thick {
-    border-width: 22px !important; /* Thicker outline */
-}
-.footer{
-    // display: flex;
-    // align-items: center;
-    // justify-content: space-between;
-    // padding: 10px;
-    // position: relative;
-    // width: 30%;
-    // max-width: 100%;
-    
-    background-color: transparent;
-    // text-align: center;
-    // position: relative;
-    bottom: 0px;
-    color: rgb(151, 149, 149);
-
-    // align-self: flex-start;
-    background-color: transparent;
-    position: absolute;
+    border-width: 22px !important;
 }
 
-.mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field--focused .mdc-notched-outline__leading, .mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field--focused .mdc-notched-outline__notch, .mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field--focused .mdc-notched-outline__trailing{
+/* Footer styling */
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    // background-color: #333;
+    color: #a3a3a3;
+    text-align: center;
+}
 
-
+/* Material Design Components (MDC) text field styling */
+.mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field {
     border-color: transparent;
-    ::placeholder{
-        color: #d62626;
-    }
 }
-.mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field .mdc-notched-outline__leading, .mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field .mdc-notched-outline__notch, .mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field .mdc-notched-outline__trailing{
 
-
+.mdc-text-field--outlined:not(.mdc-text-field--disabled).mdc-text-field--focused {
     border-color: transparent;
-    :hover{
-        border-color: transparent;
-    }
 }
 
+.mdc-text-field--outlined:not(.mdc-text-field--disabled):hover {
+    border-color: transparent;
+}
 
+.mdc-text-field--outlined .mdc-notched-outline__leading,
+.mdc-text-field--outlined .mdc-notched-outline__notch,
+.mdc-text-field--outlined .mdc-notched-outline__trailing {
+    border-color: transparent;
+}
+
+.mdc-text-field--outlined:not(.mdc-text-field--disabled) ::placeholder {
+    color: #d62626;
+}

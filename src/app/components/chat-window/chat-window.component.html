@@ -3,26 +3,54 @@
     <h2 style="color: rgb(218, 218, 218);background-color: transparent;border: 1px solid #A7A2A2 !important;padding: 5px;border-radius: 10px;position: absolute;">
       Greeting and Offering Assistance
     </h2>
-    <div class="chats"  #chatContainer>
+    <!-- <div class="chats"  #chatContainer>
       <div *ngFor="let message of messages" class="message" [ngClass]="{'user': message.sender === 'user', 'bot': message.sender === 'bot'}">
-        <!-- <span>{{ message.text }}</span> -->
+       
         <div [innerHtml]="message.text"></div>
         <div *ngIf="message.sender === 'bot'" class="feedback-buttons">
-          <button  (click)="copyResponse(message.text)" [class.active]="message.feedback === 'like'">
+          <button  (click)="copyResponse(message.text)" [class.active]="message.feedback === 'like'" aria-label="copy Response">
             <mat-icon style="color: #A7A2A2;font-size: 20px;">filter_none</mat-icon>
           </button>
-          <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'like')" [class.active]="message.feedback === 'like'">
+          <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'like')" [class.active]="message.feedback === 'like'" aria-label="like Response">
             <mat-icon style="color: #A7A2A2;font-size: 20px;">thumb_up_alt</mat-icon>
           </button>
-          <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'dislike')" [class.active]="message.feedback === 'dislike'">
+          <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'dislike')" [class.active]="message.feedback === 'dislike'" aria-label="dislike Response">
             <mat-icon style="color: #A7A2A2;font-size: 20px;">thumb_down_alt</mat-icon>
           </button>
         </div>
       </div>
       <div *ngIf="loading" class="loading">AI is typing...</div>
+    </div> -->
+    <div class="chats" #chatContainer>
+      <div *ngFor="let message of messages;"
+           class="message"
+           
+           [ngClass]="{'USER': message.role === 'USER', 'ASSISTANT': message.role === 'ASSISTANT'}">
+    
+        <!-- Display the message -->
+        <div [innerHTML]="message.content"></div>
+        <!-- <pre>{{ message.content }}</pre> -->
+        <!-- <div [innerHTML]="getSanitizedHTML(message.content) | async"></div> -->
+        <div *ngIf="message.role === 'ASSISTANT'" class="feedback-buttons">
+          <button mat-icon-button (click)="copyResponse(message.content)" [class.active]="message.feedback === 'like'" aria-label="copy Response">
+            <mat-icon style="color: #A7A2A2;font-size: 20px;">filter_none</mat-icon>
+          </button>
+          <!-- <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'like')" [class.active]="message.feedback === 'like'" aria-label="like Response">
+            <mat-icon style="color: #A7A2A2;font-size: 20px;">thumb_up_alt</mat-icon>
+          </button>
+          <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'dislike')" [class.active]="message.feedback === 'dislike'" aria-label="dislike Response">
+            <mat-icon style="color: #A7A2A2;font-size: 20px;">thumb_down_alt</mat-icon>
+          </button> -->
+        </div>
+      
+    
+        <!-- Show loading indicator if streaming -->
+        <div *ngIf="message.isStreaming">
+          <span class="streaming-indicator">...</span>
+        </div>
+      </div>
     </div>
-
-  <app-chat-input (sendMessageEvent)="ssendMessage($event)"></app-chat-input>
+  <app-chat-input style="background-color: yellowgreen;height: 80vh;" (sendMessageEvent)="handleUserMessage($event)"></app-chat-input>
 
 
   </div>

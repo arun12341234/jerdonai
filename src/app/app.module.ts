@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { SidebarComponent } from './components/sidebar/sidebar.component';
+// import { SidebarComponent } from './components/sidebar/sidebar.component';
 import { ChatWindowComponent } from './components/chat-window/chat-window.component';
 import { ChatInputComponent } from './components/chat-input/chat-input.component';
 import { HttpClientModule } from '@angular/common/http';
@@ -18,23 +18,25 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import {MatChipsModule} from '@angular/material/chips';
-import { ChatComponent } from './chat/chat.component';
+// import { ChatComponent } from './chat/chat.component';
 import { HomeComponent } from './home/home.component';
 import {MatCardModule} from '@angular/material/card';
 import { JerdonAIResponseViewerComponent } from './jerdon-airesponse-viewer/jerdon-airesponse-viewer.component';
 import {MatSnackBarModule} from '@angular/material/snack-bar';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
     AppComponent,
-    SidebarComponent,
-    ChatWindowComponent,
-    ChatInputComponent,
-    ChatComponent,
+    // SidebarComponent,
+    // ChatWindowComponent,
+    // ChatInputComponent,
+    // ChatComponent,
     HomeComponent,
     JerdonAIResponseViewerComponent
   ],
   imports: [
+    RouterModule,
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
@@ -52,6 +54,6 @@ import {MatSnackBarModule} from '@angular/material/snack-bar';
     MatSnackBarModule
   ],
   providers: [],
-  bootstrap: [AppComponent, ChatComponent]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }

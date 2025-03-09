@@ -4,13 +4,12 @@ interface Message {
   sender: 'user' | 'bot';
   feedback?: 'like' | 'dislike';
 }
-
 @Component({
-  selector: 'app-chat',
-  templateUrl: './chat.component.html',
-  styleUrls: ['./chat.component.scss']
+  selector: 'app-chat1',
+  templateUrl: './chat1.component.html',
+  styleUrls: ['./chat1.component.scss']
 })
-export class ChatComponent implements OnInit {
+export class Chat1Component {
   chatTopics: string[] = ['General Chat', 'Tech Support', 'AI Chat', 'Customer Support'];
   messages: Message[] = [];
   loading: boolean = false;
@@ -20,9 +19,8 @@ export class ChatComponent implements OnInit {
 
    @Output() sendMessageEvent = new EventEmitter<string>();
   viewContainerRef: any;
-   
-  ngOnInit(): void {
-  }
+
+
   selectTopic(topic: string) {
     console.log(`Selected Topic: ${topic}`);
   }

@@ -1,0 +1,59 @@
+data: {"choices":[{"index":0,"delta":{"content":"","type":"text"}}],"model":"","prompt_token_usage":29143,"chunk_token_usage":0,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":"Hello","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":"!","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" 😊","type":"text"}}],"model":"","chunk_token_usage":2,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" How","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" can","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" I","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" assist","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" you","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" today","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":"?","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" If","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" you","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" have","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" any","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" questions","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" or","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" need","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" help","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" with","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" something","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":",","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" feel","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" free","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" to","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":" ask","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"content":"!","type":"text"}}],"model":"","chunk_token_usage":1,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"index":0,"delta":{"type":"text","role":"assistant"}}],"model":"","chunk_token_usage":0,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: {"choices":[{"finish_reason":"stop","index":0,"delta":{"content":"","type":"text","role":"assistant"}}],"model":"","chunk_token_usage":0,"created":1741508328,"message_id":71,"parent_id":70}
+
+data: [DONE]
