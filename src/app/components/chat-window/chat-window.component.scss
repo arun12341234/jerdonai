@@ -24,14 +24,14 @@ body.dark-mode .chat-window {
   border-radius: 10px;
   opacity: 0;
   animation: fadeIn 0.3s forwards;
-  background-color: red;
+  // background-color: red;
 }
 
 /* Chats container */
 .chats {
   display: flex;
   flex-direction: column;
-  background-color: transparent;
+  // background-color: green;
   width: 50%;
   position: absolute;
   height: 70vh;
@@ -61,19 +61,19 @@ body.dark-mode .chat-window {
 }
 
 /* User and bot message styling */
-.USER {
+.user {
   align-self: flex-end;
   background: rgba(0, 0, 0, 0.1);
   color: white;
 }
 
-.ASSISTANT {
+.assistant {
   align-self: flex-start;
   background: transparent;
   color: rgb(201, 197, 197);
 }
 
-body.dark-mode .ASSISTANT {
+body.dark-mode .assistant {
   background: #444;
   color: white;
 }

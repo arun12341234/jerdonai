@@ -1,4 +1,6 @@
 import { Component, EventEmitter, OnInit, Output } from '@angular/core';
+import { ChatWindowComponent } from "../components/chat-window/chat-window.component";
+import { SidebarComponent } from "../components/sidebar/sidebar.component";
 interface Message {
   text: any;
   sender: 'user' | 'bot';
@@ -9,7 +11,7 @@ interface Message {
   templateUrl: './chat1.component.html',
   styleUrls: ['./chat1.component.scss']
 })
-export class Chat1Component {
+export class Chat1Component implements OnInit {
   chatTopics: string[] = ['General Chat', 'Tech Support', 'AI Chat', 'Customer Support'];
   messages: Message[] = [];
   loading: boolean = false;
@@ -19,7 +21,8 @@ export class Chat1Component {
 
    @Output() sendMessageEvent = new EventEmitter<string>();
   viewContainerRef: any;
-
+  ngOnInit(): void {
+  }
 
   selectTopic(topic: string) {
     console.log(`Selected Topic: ${topic}`);

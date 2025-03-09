@@ -22,25 +22,22 @@
       <div *ngIf="loading" class="loading">AI is typing...</div>
     </div> -->
     <div class="chats" #chatContainer>
-      <div *ngFor="let message of messages;"
-           class="message"
-           
-           [ngClass]="{'USER': message.role === 'USER', 'ASSISTANT': message.role === 'ASSISTANT'}">
+      <div *ngFor="let message of messages;" class="message" [ngClass]="{'user': message.role === 'USER', 'assistant': message.role === 'ASSISTANT'}">
     
         <!-- Display the message -->
         <div [innerHTML]="message.content"></div>
         <!-- <pre>{{ message.content }}</pre> -->
         <!-- <div [innerHTML]="getSanitizedHTML(message.content) | async"></div> -->
         <div *ngIf="message.role === 'ASSISTANT'" class="feedback-buttons">
-          <button mat-icon-button (click)="copyResponse(message.content)" [class.active]="message.feedback === 'like'" aria-label="copy Response">
+          <button style="color: #A7A2A2;font-size: 10px;" (click)="copyResponse(message.content)" [class.active]="message.feedback === 'like'" aria-label="copy Response">
             <mat-icon style="color: #A7A2A2;font-size: 20px;">filter_none</mat-icon>
           </button>
-          <!-- <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'like')" [class.active]="message.feedback === 'like'" aria-label="like Response">
+          <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'like')" [class.active]="message.feedback === 'like'" aria-label="like Response">
             <mat-icon style="color: #A7A2A2;font-size: 20px;">thumb_up_alt</mat-icon>
           </button>
           <button style="color: #A7A2A2;font-size: 10px;" (click)="rateResponse(message, 'dislike')" [class.active]="message.feedback === 'dislike'" aria-label="dislike Response">
             <mat-icon style="color: #A7A2A2;font-size: 20px;">thumb_down_alt</mat-icon>
-          </button> -->
+          </button>
         </div>
       
     

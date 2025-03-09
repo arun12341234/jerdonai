@@ -7,7 +7,7 @@ import { MarkdownService } from '../markdown.service';
   templateUrl: './jerdon-airesponse-viewer.component.html',
   styleUrls: ['./jerdon-airesponse-viewer.component.scss']
 })
-export class JerdonAIResponseViewerComponent {
+export class JerdonAIResponseViewerComponent implements OnInit {
   @Input() text: string = '';
   safeHtml!: SafeHtml;
 

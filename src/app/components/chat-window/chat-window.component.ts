@@ -9,11 +9,12 @@ import { v4 as uuidv4 } from 'uuid';
 import { marked } from 'marked';
 // import * as marked from 'marked';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
+import { ChatInputComponent } from "../chat-input/chat-input.component";
 
 @Component({
   selector: 'app-chat-window',
   templateUrl: './chat-window.component.html',
-  styleUrls: ['./chat-window.component.scss']
+  styleUrls: ['./chat-window.component.scss'],
 })
 export class ChatWindowComponent implements OnInit {
   @ViewChild('chatContainer') private chatContainer!: ElementRef;
@@ -403,5 +404,8 @@ private fallbackCopyText(text: string): void {
   } finally {
     document.body.removeChild(textArea);
   }
+}
+rateResponse(message:any, rate:any) {
+  console.log(message, rate)
 }
 }

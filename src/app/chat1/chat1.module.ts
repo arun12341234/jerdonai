@@ -21,15 +21,39 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 
 @NgModule({
   declarations: [
-    Chat1Component,
     SidebarComponent,
-    ChatWindowComponent,
     ChatInputComponent,
+    ChatWindowComponent,
+    Chat1Component,
+
   ],
   imports: [
+    FormsModule,
+    
     CommonModule,
     Chat1RoutingModule,
-    FormsModule, // ✅ Add FormsModule
+    Chat1RoutingModule,
+    
+    MatSidenavModule,
+    MatListModule,
+    MatFormFieldModule,
+    MatInputModule,
+    MatIconModule,
+    MatButtonModule,
+    FlexLayoutModule,
+    MatChipsModule,
+    MatCardModule,
+    MatSnackBarModule
+  ],
+  exports:[
+    FormsModule,
+    ChatInputComponent,
+    CommonModule,
+    Chat1RoutingModule,
+    ChatWindowComponent,
+    Chat1RoutingModule,
+    SidebarComponent,
+    Chat1Component,
     MatSidenavModule,
     MatListModule,
     MatFormFieldModule,

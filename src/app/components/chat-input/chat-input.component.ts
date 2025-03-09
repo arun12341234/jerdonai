@@ -1,4 +1,4 @@
-import { Component, Output, EventEmitter, ViewEncapsulation } from '@angular/core';
+import { Component, Output, EventEmitter, ViewEncapsulation, OnInit } from '@angular/core';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import * as marked from 'marked';
 
@@ -8,11 +8,14 @@ import * as marked from 'marked';
   styleUrls: ['./chat-input.component.scss'],
   encapsulation: ViewEncapsulation.None
 })
-export class ChatInputComponent {
+export class ChatInputComponent implements OnInit {
   userInput: string = '';
 
   @Output() sendMessageEvent = new EventEmitter<string>();
 
+  constructor() {}
+  ngOnInit(): void {
+  }
   // Method to emit the message and reset the input
   sendMessage(): void {
     if (this.userInput.trim()) {

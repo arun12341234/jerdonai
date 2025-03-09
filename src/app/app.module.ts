@@ -19,11 +19,12 @@ import { MatButtonModule } from '@angular/material/button';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import {MatChipsModule} from '@angular/material/chips';
 // import { ChatComponent } from './chat/chat.component';
-import { HomeComponent } from './home/home.component';
+// import { HomeComponent } from './home/home.component';
 import {MatCardModule} from '@angular/material/card';
 import { JerdonAIResponseViewerComponent } from './jerdon-airesponse-viewer/jerdon-airesponse-viewer.component';
 import {MatSnackBarModule} from '@angular/material/snack-bar';
 import { RouterModule } from '@angular/router';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,7 @@ import { RouterModule } from '@angular/router';
     // ChatInputComponent,
     // ChatComponent,
     HomeComponent,
-    JerdonAIResponseViewerComponent
+    // JerdonAIResponseViewerComponent
   ],
   imports: [
     RouterModule,
@@ -43,7 +44,6 @@ import { RouterModule } from '@angular/router';
     HttpClientModule,
     FormsModule,
     MatSidenavModule,
-    MatListModule,
     MatFormFieldModule,
     MatInputModule,
     MatIconModule,
@@ -51,7 +51,7 @@ import { RouterModule } from '@angular/router';
     FlexLayoutModule,
     MatChipsModule,
     MatCardModule,
-    MatSnackBarModule
+    MatSnackBarModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
