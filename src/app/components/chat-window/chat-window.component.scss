@@ -24,7 +24,7 @@ body.dark-mode .chat-window {
   border-radius: 10px;
   opacity: 0;
   animation: fadeIn 0.3s forwards;
-  margin-bottom: 150px;
+  // margin-bottom: 150px;
   // background-color: red;
 }
 
@@ -35,7 +35,7 @@ body.dark-mode .chat-window {
   // background-color: green;
   width: 50%;
   position: fixed;
-  height: 70vh;
+  height: 65vh;
   overflow: scroll;
   margin-top: 5vh;
   margin-bottom: 70vh;
